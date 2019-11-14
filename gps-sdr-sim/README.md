@@ -1,3 +1,12 @@
+# Main file to run
+Note: Ensure LimeSDR is plugged in
+1) ./spoof_gps.sh
+2) Input in the location name as an alias
+3) Input latitude and longitude values
+
+# Prerequisite
+The sections below are taken from https://github.com/osqzss/gps-sdr-sim. Do compile the gcc-sdr-sim and limeplayer following the instructions below.
+
 # GPS-SDR-SIM
 
 GPS-SDR-SIM generates GPS baseband signal data streams, which can be converted 
